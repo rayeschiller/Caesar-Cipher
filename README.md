@@ -1,2 +1,2 @@
-# CS_classwork
-Work done in class
+# Caesar Cypher
+Encryption function done in class
