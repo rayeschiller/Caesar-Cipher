@@ -1,2 +1,2 @@
-# Caesar Cypher
+# Caesar Cipher
 Famous encryption function problem
